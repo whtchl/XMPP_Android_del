@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\qqEmojilib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\tab_btn_bg_pressed.9.png",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\qqEmojilib\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\tab_btn_bg_pressed.9.png"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\qqEmojilib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ic_no_emoji_history_light.png",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\qqEmojilib\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_no_emoji_history_light.png"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\qqEmojilib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ic_emoji_recent_light_normal.png",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\qqEmojilib\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_emoji_recent_light_normal.png"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\qqEmojilib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ic_emoji_people_light_normal.png",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\qqEmojilib\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_emoji_people_light_normal.png"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\qqEmojilib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ic_emoji_recent_light_activated.png",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\qqEmojilib\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_emoji_recent_light_activated.png"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\qqEmojilib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\sym_keyboard_delete_holo.png",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\qqEmojilib\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\sym_keyboard_delete_holo.png"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\qqEmojilib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ic_emoji_people_light_activated.png",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\qqEmojilib\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_emoji_people_light_activated.png"
+    }
+]

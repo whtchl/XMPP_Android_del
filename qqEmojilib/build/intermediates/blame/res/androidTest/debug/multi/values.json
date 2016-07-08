@@ -1,0 +1,216 @@
+[
+    {
+        "outputFile": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\qqEmojilib\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 65,
+                    "endOffset": 116
+                },
+                "from": {
+                    "file": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\qqEmojilib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 65,
+                        "endOffset": 116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 121,
+                    "endColumn": 62,
+                    "endOffset": 179
+                },
+                "from": {
+                    "file": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\qqEmojilib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 121,
+                        "endColumn": 62,
+                        "endOffset": 179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 184,
+                    "endColumn": 59,
+                    "endOffset": 239
+                },
+                "from": {
+                    "file": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\qqEmojilib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 184,
+                        "endColumn": 59,
+                        "endOffset": 239
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 244,
+                    "endColumn": 58,
+                    "endOffset": 298
+                },
+                "from": {
+                    "file": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\qqEmojilib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 244,
+                        "endColumn": 58,
+                        "endOffset": 298
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 303,
+                    "endColumn": 71,
+                    "endOffset": 370
+                },
+                "from": {
+                    "file": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\qqEmojilib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 303,
+                        "endColumn": 71,
+                        "endOffset": 370
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 375,
+                    "endColumn": 71,
+                    "endOffset": 442
+                },
+                "from": {
+                    "file": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\qqEmojilib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 375,
+                        "endColumn": 71,
+                        "endOffset": 442
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 447,
+                    "endColumn": 73,
+                    "endOffset": 516
+                },
+                "from": {
+                    "file": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\qqEmojilib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 447,
+                        "endColumn": 73,
+                        "endOffset": 516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 521,
+                    "endColumn": 51,
+                    "endOffset": 568
+                },
+                "from": {
+                    "file": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\qqEmojilib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 521,
+                        "endColumn": 51,
+                        "endOffset": 568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1717,
+                    "endColumn": 61,
+                    "endOffset": 1774
+                },
+                "from": {
+                    "file": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\qqEmojilib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1717,
+                        "endColumn": 61,
+                        "endOffset": 1774
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1779,
+                    "endColumn": 67,
+                    "endOffset": 1842
+                },
+                "from": {
+                    "file": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\qqEmojilib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1779,
+                        "endColumn": 67,
+                        "endOffset": 1842
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1847,
+                    "endColumn": 68,
+                    "endOffset": 1911
+                },
+                "from": {
+                    "file": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\qqEmojilib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1847,
+                        "endColumn": 68,
+                        "endOffset": 1911
+                    }
+                }
+            }
+        ]
+    }
+]

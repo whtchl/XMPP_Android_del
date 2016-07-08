@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\04_workspace\04_android\03_UI\Liaomei\XMPP1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\04_workspace\04_android\03_UI\Liaomei\XMPP1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_086f524c530f925fe564e47d5acd2d317529149d.jar" />
+    </item>
+    <item
+        jar="D:\04_workspace\04_android\03_UI\Liaomei\XMPP1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1db085e98629c38d9f6a335c7192b03316a15ef7">
+        <dex dex="D:\04_workspace\04_android\03_UI\Liaomei\XMPP1\app\build\intermediates\pre-dexed\debug\instant-run_d867db77e011c15a8af080b1fb20b7142b9fb87e.jar" />
+    </item>
+    <item
+        jar="D:\04_workspace\04_android\03_UI\Liaomei\XMPP1\app\libs\asmack-android-6.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3d0153304081a3a9ddb15c93082e2664b94746e9">
+        <dex dex="D:\04_workspace\04_android\03_UI\Liaomei\XMPP1\app\build\intermediates\pre-dexed\debug\asmack-android-6_336bedaed3f44a7853c421d98e404f270dbb95a0.jar" />
+    </item>
+    <item
+        jar="D:\04_workspace\04_android\03_UI\Liaomei\XMPP1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\04_workspace\04_android\03_UI\Liaomei\XMPP1\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_90b96de3ed99d99301d7cda7d22aa10294597f55.jar" />
+    </item>
+    <item
+        jar="D:\04_workspace\04_android\03_UI\Liaomei\XMPP1\app\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="D:\04_workspace\04_android\03_UI\Liaomei\XMPP1\app\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0_59299d7ddac95313fff6126c26479df55d63a2dc.jar" />
+    </item>
+    <item
+        jar="D:\Users\tchl\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\04_workspace\04_android\03_UI\Liaomei\XMPP1\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_f95971b33314588eab68410d2caee9c876aa34f7.jar" />
+    </item>
+    <item
+        jar="D:\04_workspace\04_android\03_UI\Liaomei\XMPP1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e4ddf8ba17d5c72cba749c2fdf9c3b233026f9d8">
+        <dex dex="D:\04_workspace\04_android\03_UI\Liaomei\XMPP1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_8935d12036840a714a2a03a534e1b3ed7975ad56.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\qqEmojilib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\emoji_cell.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\qqEmojilib\\build\\intermediates\\bundles\\debug\\res\\layout\\emoji_cell.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\qqEmojilib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\tab_emoji_qq.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\qqEmojilib\\build\\intermediates\\bundles\\debug\\res\\layout\\tab_emoji_qq.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\qqEmojilib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\emoji_grid.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\qqEmojilib\\build\\intermediates\\bundles\\debug\\res\\layout\\emoji_grid.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\qqEmojilib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\emoji_keyboard.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\qqEmojilib\\build\\intermediates\\bundles\\debug\\res\\layout\\emoji_keyboard.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\qqEmojilib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\tab_emoji_recent.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\qqEmojilib\\build\\intermediates\\bundles\\debug\\res\\layout\\tab_emoji_recent.xml"
+    }
+]

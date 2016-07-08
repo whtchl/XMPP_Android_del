@@ -1,0 +1,266 @@
+[
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_inner7.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\switch_inner7.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_emoji_people_light.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\exploded-aar\\XMPP1\\qqEmojilib\\unspecified\\res\\drawable\\ic_emoji_people_light.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_btn_white.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\common_btn_white.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_bg.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\shape_bg.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_strip_setting_top.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\common_strip_setting_top.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_inner.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\switch_inner.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emoji_bg.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\exploded-aar\\XMPP1\\qqEmojilib\\unspecified\\res\\drawable\\emoji_bg.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_input_bar_bg_big.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\chat_input_bar_bg_big.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aio_send_btn.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\aio_send_btn.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash_repeat.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\splash_repeat.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_btn_green.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\common_btn_green.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\terminal_icon_mobile_online.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\terminal_icon_mobile_online.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\popup_background.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\popup_background.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_loading4.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\common_loading4.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_actionsheet_bg.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\common_actionsheet_bg.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_box_cancel_btn_bg.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\search_box_cancel_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sc_publish_spinner_temp.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\sc_publish_spinner_temp.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_item_icon_bg_selector.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\chat_item_icon_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\contact_list_item_buddy_name_text_color.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\contact_list_item_buddy_name_text_color.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\red_del_btn_bg.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\red_del_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sc_publish_spinner.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\sc_publish_spinner.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_btn_green_actionsheet.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\common_btn_green_actionsheet.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_btn_red.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\common_btn_red.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\line.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\line.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_tab.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\exploded-aar\\XMPP1\\qqEmojilib\\unspecified\\res\\drawable\\background_tab.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_line.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\shape_line.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\coversation_bg.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\coversation_bg.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash_mixed_bg.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\splash_mixed_bg.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_loading3.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\common_loading3.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_btn_red_actionsheet.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\common_btn_red_actionsheet.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\balloon_l_selector.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\balloon_l_selector.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_dialog_btn_cancel.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\common_dialog_btn_cancel.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_emoji_recent_light.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\exploded-aar\\XMPP1\\qqEmojilib\\unspecified\\res\\drawable\\ic_emoji_recent_light.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_track7.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\switch_track7.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aio_keyboard.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\aio_keyboard.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emoji_ime_bg.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\exploded-aar\\XMPP1\\qqEmojilib\\unspecified\\res\\drawable\\emoji_ime_bg.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_strip_setting_middle.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\common_strip_setting_middle.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_arrow_right_selector.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\common_arrow_right_selector.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_strip_setting_bottom.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\common_strip_setting_bottom.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\terminal_icon_ios_online.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\terminal_icon_ios_online.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\top_button_right_selector.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\top_button_right_selector.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_list_item_background.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\common_list_item_background.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_text.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\edit_text.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\contact_list_item_buddy_signature_text_color2.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\contact_list_item_buddy_signature_text_color2.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_list_group_item_background.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\common_list_group_item_background.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_send_button_bg.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\chat_send_button_bg.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_receivepic.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\progress_receivepic.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\terminal_icon_pc_online.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\terminal_icon_pc_online.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\showleft_selector.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\showleft_selector.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\balloon_r_selector.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\balloon_r_selector.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_dialog_btn_confirm.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\common_dialog_btn_confirm.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_background.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\list_selector_background.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scrollbar_handle_vertical.9.png",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\scrollbar_handle_vertical.9.png"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_btn_black_actionsheet.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\common_btn_black_actionsheet.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aio_refresh.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\aio_refresh.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_btn_gray_actionsheet.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\common_btn_gray_actionsheet.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aio_time_bg.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\aio_time_bg.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qzone_edit_face_drawable.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\qzone_edit_face_drawable.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emotion_del_selector.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\emotion_del_selector.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_bg1.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\checkbox_bg1.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\action_item_btn.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\action_item_btn.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_background_disabled.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\list_selector_background_disabled.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_strip_setting_bg.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\common_strip_setting_bg.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\showright_selector.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable\\showright_selector.xml"
+    }
+]

@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tips_slip_out_top.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\anim\\tips_slip_out_top.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_finish.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\anim\\activity_finish.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pump_bottom.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\anim\\pump_bottom.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_new.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\anim\\activity_new.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_topright_to_bottomleft.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\anim\\grow_from_topright_to_bottomleft.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_2_enter_out.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\anim\\activity_2_enter_out.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tips_slip_in_top.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\anim\\tips_slip_in_top.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_topright_to_bottomleft.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\anim\\shrink_from_topright_to_bottomleft.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\connection.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\anim\\connection.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_topleft_to_bottomright.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\anim\\shrink_from_topleft_to_bottomright.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pump_top.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\anim\\pump_top.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_bottom.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\anim\\shrink_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_bottom.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\anim\\grow_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rail.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\anim\\rail.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\sc_popup_enter.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\anim\\sc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_bottomright_to_topleft.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\anim\\grow_from_bottomright_to_topleft.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\decelerate_cubic.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\anim\\decelerate_cubic.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_out.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\anim\\activity_out.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_2_enter_in.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\anim\\activity_2_enter_in.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_exit.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\anim\\dialog_exit.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_bottomleft_to_topright.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\anim\\shrink_from_bottomleft_to_topright.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_back.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\anim\\activity_back.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_bottomright_to_topleft.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\anim\\shrink_from_bottomright_to_topleft.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_topleft_to_bottomright.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\anim\\grow_from_topleft_to_bottomright.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\disappear.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\anim\\disappear.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\sc_popup_exit.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\anim\\sc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_bottomleft_to_topright.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\anim\\grow_from_bottomleft_to_topright.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_enter.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\anim\\dialog_enter.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_top.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\anim\\shrink_from_top.xml"
+    },
+    {
+        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_top.xml",
+        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\anim\\grow_from_top.xml"
+    }
+]
