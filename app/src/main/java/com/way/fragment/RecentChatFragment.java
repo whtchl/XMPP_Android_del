@@ -91,7 +91,7 @@ public class RecentChatFragment extends Fragment implements OnClickListener {
 		mTitleAddView = (ImageView) view
 				.findViewById(R.id.ivTitleBtnRightImage);
 		mTitleAddView.setImageResource(R.drawable.setting_add_account_white);
-		mTitleAddView.setVisibility(View.VISIBLE);
+		mTitleAddView.setVisibility(View.GONE);
 		mTitleAddView.setOnClickListener(this);
 		mSwipeListView = (SwipeListView) view
 				.findViewById(R.id.recent_listview);

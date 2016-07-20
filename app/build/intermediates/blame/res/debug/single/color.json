@@ -1,82 +1,82 @@
 [
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\color\\skin_gray_group_item.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\color\\skin_gray_group_item.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\skin_black_group_item.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\color\\skin_black_group_item.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\color\\skin_dark_gray.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\color\\skin_dark_gray.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\skin_gray_group_item.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\color\\skin_gray_group_item.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\color\\skin_gray3.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\color\\skin_gray3.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\skin_bar_text.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\color\\skin_bar_text.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\color\\skin_blue.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\color\\skin_blue.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\skin_dark_gray_item.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\color\\skin_dark_gray_item.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\color\\skin_bar_text.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\color\\skin_bar_text.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\skin_gray3.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\color\\skin_gray3.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\color\\skin_gray2_item.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\color\\skin_gray2_item.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\skin_blue.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\color\\skin_blue.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\color\\skin_gray3_item.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\color\\skin_gray3_item.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\skin_aio_send_button.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\color\\skin_aio_send_button.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\color\\skin_button.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\color\\skin_button.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\skin_blue_item.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\color\\skin_blue_item.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\color\\skin_aio_send_button.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\color\\skin_aio_send_button.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\skin_search_button.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\color\\skin_search_button.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\color\\skin_hint_input.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\color\\skin_hint_input.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\skin_menu.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\color\\skin_menu.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\color\\skin_search_button.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\color\\skin_search_button.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\skin_gray2_item.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\color\\skin_gray2_item.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\color\\skin_black_group_item.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\color\\skin_black_group_item.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\skin_gray3_item.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\color\\skin_gray3_item.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\color\\skin_blue_item.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\color\\skin_blue_item.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\skin_color_button.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\color\\skin_color_button.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\color\\skin_gray2.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\color\\skin_gray2.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\skin_input.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\color\\skin_input.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\color\\skin_black.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\color\\skin_black.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\skin_gray2.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\color\\skin_gray2.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\color\\skin_color_button.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\color\\skin_color_button.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\skin_dark_gray.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\color\\skin_dark_gray.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\color\\skin_menu.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\color\\skin_menu.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\skin_black.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\color\\skin_black.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\color\\skin_input.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\color\\skin_input.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\login_findpass_button_selector.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\color\\login_findpass_button_selector.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\color\\skin_dark_gray_item.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\color\\skin_dark_gray_item.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\skin_button.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\color\\skin_button.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\color\\login_findpass_button_selector.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\color\\login_findpass_button_selector.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\color\\skin_hint_input.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\color\\skin_hint_input.xml"
     }
 ]

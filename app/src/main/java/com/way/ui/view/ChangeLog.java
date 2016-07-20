@@ -66,6 +66,7 @@ public class ChangeLog {
 	public ChangeLog(Context context, SharedPreferences sp) {
 		this.mContext = context;
 
+
 		// get version numbers
 		this.lastVersion = sp.getString(VERSION_KEY, NO_VERSION);
 		Log.d(TAG, "lastVersion: " + lastVersion);

@@ -267,7 +267,7 @@
     <string name="alert_troop_not_exist">该群已解散</string>
     <string name="all_contacts">全部联系人</string>
     <string name="all_members">全部成员</string>
-    <string name="all_rights_reserved">Copyright © 2012-2013 way. All Rights Reserved.</string>
+    <string name="all_rights_reserved">Copyright © 2016-2020. All Rights Reserved.</string>
     <string name="already">已经</string>
     <string name="already_add">已添加</string>
     <string name="already_clear_history">记录已清空</string>
@@ -280,11 +280,11 @@
     <string name="app_error">应用程序错误</string>
     <string name="app_error_message">很抱歉，应用程序出现错误，即将退出。\n请选择邮件的方式将此错误报告提交给我，我会尽快修复这个问题，谢谢！</string>
     <string name="app_information">        \
-        本应用是基于Xmpp协议的一款轻量级即时通讯软件，如果想了解更多,\
-        欢迎访问我的博客主页：http://blog.csdn.net/way_ping_li ,\
+        本应用是基于Xmpp协议的一款轻量级即时推送软件，如果想了解更多,\
+	请联系whtchl@126.com
         由于时间仓促，错误与疏忽之处在所难免,\
         希望各位朋友们以邮件的形式反馈问题给我,再次表示感谢!</string>
-    <string name="app_name">简洁XMPP</string>
+    <string name="app_name">病房呼叫</string>
     <string name="app_share_default_msg">应用分享</string>
     <string name="app_share_id_from">来自</string>
     <string name="app_share_prefix"/>
@@ -702,6 +702,7 @@
     <string name="help">帮助</string>
     <string name="hide_location">停止上报地理位置</string>
     <string name="hide_login">隐身登录</string>
+    <string name="hint_account">607@172.16.230.20</string>
     <string name="identity_expired">身份过期</string>
     <string name="identity_expired_msg">帐号身份已过期，请重新登录。</string>
     <string name="image">[图片]</string>
@@ -810,9 +811,8 @@
     <string name="lite_video">视频</string>
     <string name="lite_video_limit">最多只能选择20个视频</string>
     <string name="login">登 录</string>
-    <string name="login_help_information">Tips:帐号由ID+@+服务器组成!\n
-        例如：way.ping.li@gmail.com,\n
-   		或者：way@192.168.1.110</string>
+    <string name="login_help_information">提示:帐号由ID+@+服务器组成!\n
+   		例如：607@192.168.1.110</string>
     <string name="login_prompt">登录中</string>
     <string name="login_prompt_msg">连接中...</string>
     <string name="login_prompt_no">未连接</string>
@@ -869,7 +869,7 @@
     <string name="netFailed">当前网络不可用，请检查网络设置。</string>
     <string name="net_connect_confirm">不再提醒</string>
     <string name="net_connect_tips">欢迎使用QQ，软件使用完全免费，在使用过程中可能会产生数据流量，流量费用请咨询当地运营商。保护用户隐私是QQ的一项基本原则，在用户未授权的情况下，QQ不会收集用户的联系人，通讯记录等基本信息。</string>
-    <string name="net_disable">当前网络不可用，请检查网络设置。</string>
+    <string name="net_disable">世界上最遥远的距离就是没网。检查设置</string>
     <string name="net_error">网络错误</string>
     <string name="net_error_tip">当前网络不可用，请检查你的网络设置。</string>
     <string name="net_fail_hint">网络连接失败</string>
@@ -1124,7 +1124,7 @@
     <string name="qzone_feed_left_back_title">%s详情</string>
     <string name="qzone_feedlist">好友动态</string>
     <string name="reach_album_acc_limit">相册中照片数量已达上限，请先删除部分照片再重新上传</string>
-    <string name="recent_chat_fragment_title">最近会话</string>
+    <string name="recent_chat_fragment_title">最近推送</string>
     <string name="recently_contacted_team">最近联系人</string>
     <string name="recomend_background">推荐背景</string>
     <string name="recommend_contact">好友推荐</string>
@@ -1168,7 +1168,7 @@
     <string name="roster_contextmenu_group_rename">重命名分组</string>
     <string name="roster_contextmenu_title">%s选项</string>
     <string name="roster_group_rename_failed">默认分组不能重命名</string>
-    <string name="run_bg_ticker">XMPP正在后台运行</string>
+    <string name="run_bg_ticker">病房呼叫正在后台运行</string>
     <string name="same_friend">共同好友%d个</string>
     <string name="saturday">星期六</string>
     <string name="save">保存</string>
@@ -1263,7 +1263,7 @@
     <string name="set_status_failednet">状态设置失败，请检查网络</string>
     <string name="set_top_on_msglist">在消息列表置顶</string>
     <string name="set_traffic_data">流量统计</string>
-    <string name="setting_about_description">弹指间 心无间</string>
+    <string name="setting_about_description">百姓首医，浙东名院</string>
     <string name="setting_close">关</string>
     <string name="setting_help">设置</string>
     <string name="setting_modify_fail">设置修改失败</string>
@@ -1517,7 +1517,7 @@
     <string name="voter_none_card_prompt_line3">可以有机会让更多人赞你哦！</string>
     <string name="voter_none_prompt_line_1">还没有人赞过你的名片</string>
     <string name="voter_none_prompt_line_3">可以更有机会让其他人赞你哦</string>
-    <string name="way_email_address">way.ping.li@gmail.com</string>
+    <string name="way_email_address">whtchl@126.com</string>
     <string name="wednesday">星期三</string>
     <string name="wpa_sig_timeout">消息发送失败，请先添加对方为好友</string>
     <string name="xlistview_footer_hint_normal">查看更多</string>

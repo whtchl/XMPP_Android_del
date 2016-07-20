@@ -102,7 +102,7 @@
                     android:paddingLeft="10.0dip"
                     android:paddingRight="10.0dip"
                     android:singleLine="true"
-                    android:text="way" />
+                    android:text="江东橘子" />
             </LinearLayout>
 
             <LinearLayout
@@ -141,7 +141,7 @@
                     android:paddingLeft="10.0dip"
                     android:paddingRight="10.0dip"
                     android:singleLine="true"
-                    android:text="way.ping.li@gmail.com" />
+                    android:text="whtchl@126.com" />
             </LinearLayout>
 
             <TextView

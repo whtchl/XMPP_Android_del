@@ -1,186 +1,186 @@
 [
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_right_layout.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\layout\\main_right_layout.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_menu_dialog_2btn_layout.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\layout\\common_menu_dialog_2btn_layout.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_box.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\layout\\search_box.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_commen_title_rightview.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\layout\\custom_commen_title_rightview.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\slidingmenumain.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\layout\\slidingmenumain.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\slidingmenumain.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\layout\\slidingmenumain.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edittext_dialog.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\layout\\edittext_dialog.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\action_item_vertical.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\layout\\action_item_vertical.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_center_layout.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\layout\\main_center_layout.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\emoji_grid.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\exploded-aar\\XMPP_Android\\qqEmojilib\\unspecified\\res\\layout\\emoji_grid.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_item_left.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\layout\\chat_item_left.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_right_layout.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\layout\\main_right_layout.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\layout\\splash.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_footer.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\layout\\xlistview_footer.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_horizontal.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\layout\\popup_horizontal.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loginpage.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\layout\\loginpage.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_commen_title_rightview.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\layout\\custom_commen_title_rightview.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\net_status_bar_info_top.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\layout\\net_status_bar_info_top.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\layout\\menu.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\layout\\splash.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact_list_item_for_buddy.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\layout\\contact_list_item_for_buddy.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\layout\\chat.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recent_listview_item.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\layout\\recent_listview_item.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recent_chat_fragment.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\layout\\recent_chat_fragment.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\feed_back_view.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\layout\\feed_back_view.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_settings_fragment.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\layout\\main_settings_fragment.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\emoji_grid.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\exploded-aar\\XMPP1\\qqEmojilib\\unspecified\\res\\layout\\emoji_grid.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\groupnameview.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\layout\\groupnameview.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\groupnameview.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\layout\\groupnameview.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_horizontal.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\layout\\popup_horizontal.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\addrosteritemdialog.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\layout\\addrosteritemdialog.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_left_layout.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\layout\\main_left_layout.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\net_status_bar_info_top.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\layout\\net_status_bar_info_top.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recent_listview_item.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\layout\\recent_listview_item.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_help.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\layout\\login_help.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\layout\\about.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_vertical.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\layout\\popup_vertical.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\emoji_keyboard.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\exploded-aar\\XMPP_Android\\qqEmojilib\\unspecified\\res\\layout\\emoji_keyboard.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_commen_title.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\layout\\custom_commen_title.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_item_left.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\layout\\chat_item_left.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\action_item_vertical.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\layout\\action_item_vertical.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\layout\\menu.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\swipeback_layout.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\layout\\swipeback_layout.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_header.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\layout\\message_header.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\emoji_cell.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\exploded-aar\\XMPP1\\qqEmojilib\\unspecified\\res\\layout\\emoji_cell.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_help.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\layout\\login_help.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_emoji_qq.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\exploded-aar\\XMPP1\\qqEmojilib\\unspecified\\res\\layout\\tab_emoji_qq.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_emoji_recent.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\exploded-aar\\XMPP_Android\\qqEmojilib\\unspecified\\res\\layout\\tab_emoji_recent.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\action_item_horizontal.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\layout\\action_item_horizontal.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\swipeback_layout.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\layout\\swipeback_layout.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\horiz_separator.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\layout\\horiz_separator.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\layout\\pull_to_refresh_header_vertical.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_toast.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\layout\\custom_toast.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_item_right.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\layout\\chat_item_right.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_emoji_recent.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\exploded-aar\\XMPP1\\qqEmojilib\\unspecified\\res\\layout\\tab_emoji_recent.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_vertical.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\layout\\popup_vertical.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\layout\\chat.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_toast.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\layout\\custom_toast.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_dialog.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\layout\\custom_dialog.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\feed_back_view.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\layout\\feed_back_view.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loginpage.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\layout\\loginpage.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact_list_item_for_buddy.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\layout\\contact_list_item_for_buddy.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_header.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\layout\\message_header.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_progress_dialog.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\layout\\custom_progress_dialog.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\emoji_keyboard.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\exploded-aar\\XMPP1\\qqEmojilib\\unspecified\\res\\layout\\emoji_keyboard.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\action_item_horizontal.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\layout\\action_item_horizontal.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\layout\\about.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_center_layout.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\layout\\main_center_layout.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\layout\\pull_to_refresh_header_vertical.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_box.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\layout\\search_box.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_settings_fragment.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\layout\\main_settings_fragment.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\face.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\layout\\face.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\emoji_cell.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\exploded-aar\\XMPP_Android\\qqEmojilib\\unspecified\\res\\layout\\emoji_cell.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_progress_dialog.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\layout\\custom_progress_dialog.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_emoji_qq.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\exploded-aar\\XMPP_Android\\qqEmojilib\\unspecified\\res\\layout\\tab_emoji_qq.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_menu_dialog_2btn_layout.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\layout\\common_menu_dialog_2btn_layout.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\addrosteritemdialog.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\layout\\addrosteritemdialog.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_footer.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\layout\\xlistview_footer.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\layout\\pull_to_refresh_header_horizontal.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact_buddy_list_group.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\layout\\contact_buddy_list_group.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\horiz_separator.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\layout\\horiz_separator.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\moverosterentrytogroupview.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\layout\\moverosterentrytogroupview.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edittext_dialog.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\layout\\edittext_dialog.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recent_chat_fragment.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\layout\\recent_chat_fragment.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact_buddy_list_group.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\layout\\contact_buddy_list_group.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\face.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\layout\\face.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_commen_title.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\layout\\custom_commen_title.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_item_right.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\layout\\chat_item_right.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_dialog.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\layout\\custom_dialog.xml"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_left_layout.xml",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\layout\\main_left_layout.xml"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\moverosterentrytogroupview.xml",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\layout\\moverosterentrytogroupview.xml"
     }
 ]

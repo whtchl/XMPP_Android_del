@@ -487,10 +487,10 @@ public class MainActivity extends BaseSlidingFragmentActivity implements
 		case R.id.show_right_fragment_btn:
 			mSlidingMenu.showSecondaryMenu(true);
 			break;
-		case R.id.ivTitleName:
+		/*case R.id.ivTitleName:
 			if (isConnected())
 				showStatusQuickAction(v);
-			break;
+			break;*/
 		default:
 			break;
 		}

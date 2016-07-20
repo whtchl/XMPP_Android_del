@@ -12,8 +12,10 @@ import android.os.IBinder;
 import android.os.Message;
 import android.support.v4.app.FragmentActivity;
 import android.text.Editable;
+import android.text.StaticLayout;
 import android.text.TextUtils;
 import android.text.TextWatcher;
+import android.util.Log;
 import android.view.View;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
@@ -36,6 +38,7 @@ import com.way.xx.R;
 
 public class LoginActivity extends FragmentActivity implements
 		IConnectionStatusCallback, TextWatcher {
+	public static final String TAG="LoginAitvity";
 	public static final String LOGIN_ACTION = "com.way.action.LOGIN";
 	private static final int LOGIN_OUT_TIME = 0;
 	private Button mLoginBtn;
@@ -95,6 +98,7 @@ public class LoginActivity extends FragmentActivity implements
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
+		System.out.println(TAG+" ---> " + Thread.currentThread().getId());
 		startService(new Intent(LoginActivity.this, XXService.class));
 		bindXMPPService();
 		setContentView(R.layout.loginpage);
@@ -235,10 +239,12 @@ public class LoginActivity extends FragmentActivity implements
 	@Override
 	public void afterTextChanged(Editable s) {
 		try {
+			Log.e("TAG","tchl afterTextChanged");
 			XMPPHelper.verifyJabberID(s);
 			mLoginBtn.setEnabled(true);
 			mAccountEt.setTextColor(Color.parseColor("#ff333333"));
 		} catch (XXAdressMalformedException e) {
+			Log.e("TAG","tchl afterTextChanged 2");
 			mLoginBtn.setEnabled(false);
 			mAccountEt.setTextColor(Color.RED);
 		}

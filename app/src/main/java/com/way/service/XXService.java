@@ -17,6 +17,7 @@ import android.os.Binder;
 import android.os.Handler;
 import android.os.IBinder;
 import android.text.TextUtils;
+import android.util.Log;
 
 import com.way.activity.BaseActivity;
 import com.way.activity.BaseActivity.BackPressHandler;
@@ -35,6 +36,7 @@ import com.way.xx.R;
 
 public class XXService extends BaseService implements EventHandler,
 		BackPressHandler {
+	public static final String TAG="XXService";
 	public static final int CONNECTED = 0;
 	public static final int DISCONNECTED = -1;
 	public static final int CONNECTING = 1;
@@ -129,6 +131,7 @@ public class XXService extends BaseService implements EventHandler,
 	@Override
 	public void onCreate() {
 		super.onCreate();
+		System.out.println(TAG+" ---> " + Thread.currentThread().getId());
 		XXBroadcastReceiver.mListeners.add(this);
 		BaseActivity.mListeners.add(this);
 		mActivityManager = ((ActivityManager) getSystemService(Context.ACTIVITY_SERVICE));
@@ -139,6 +142,7 @@ public class XXService extends BaseService implements EventHandler,
 
 	@Override
 	public int onStartCommand(Intent intent, int flags, int startId) {
+		Log.e(TAG,"onStartCommand");
 		if (intent != null
 				&& intent.getAction() != null
 				&& TextUtils.equals(intent.getAction(),
@@ -180,13 +184,16 @@ public class XXService extends BaseService implements EventHandler,
 			@Override
 			public void run() {
 				try {
+                    System.out.println(TAG+" ConnectingThread ---> " + Thread.currentThread().getId());
 					postConnecting();
 					mSmackable = new SmackImpl(XXService.this);
 					if (mSmackable.login(account, password)) {
 						// 登陆成功
+						Log.i(TAG,"mSmackable login true");
 						postConnectionScuessed();
 					} else {
 						// 登陆失败
+						Log.i(TAG,"mSmackable login false");
 						postConnectionFailed(LOGIN_FAILED);
 					}
 				} catch (XXException e) {

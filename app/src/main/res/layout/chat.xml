@@ -28,7 +28,8 @@
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="bottom"
-            android:background="@drawable/skin_aio_input_bar_bg" >
+            android:background="@drawable/skin_aio_input_bar_bg"
+            android:visibility="gone" >
 
             <ImageView
                 android:id="@+id/skin_input_bg"
@@ -45,7 +46,8 @@
                 android:layout_alignTop="@id/inputArea"
                 android:layout_marginRight="2.0dip"
                 android:background="@drawable/trans"
-                android:src="@drawable/qzone_edit_face_drawable" />
+                android:src="@drawable/qzone_edit_face_drawable"
+                />
 
             <FrameLayout
                 android:id="@+id/inputArea"
@@ -94,7 +96,8 @@
                         android:inputType="textMultiLine"
                         android:maxLines="4"
                         android:textColor="@color/black"
-                        android:textSize="16.0sp" />
+                        android:textSize="16.0sp"
+                         />
                 </RelativeLayout>
             </FrameLayout>
         </RelativeLayout>
@@ -115,13 +118,14 @@
             android:visibility="gone" />
     </FrameLayout>
 
-    <com.way.ui.emoji.EmojiKeyboard
+<!--    <com.way.ui.emoji.EmojiKeyboard
         android:id="@+id/face_ll"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:focusable="true"
         android:clickable="true"
-        />
+        android:visibility="gone"
+        />-->
     <!--
     <LinearLayout
         android:id="@+id/face_ll"

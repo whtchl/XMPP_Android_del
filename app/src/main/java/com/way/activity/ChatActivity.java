@@ -83,7 +83,7 @@ public class ChatActivity extends SwipeBackActivity implements OnTouchListener,
 	private TextView mTitleNameView;// 标题栏
 	private ImageView mTitleStatusView;
 	private EditText mChatEditText;// 消息输入框
-	private EmojiKeyboard mFaceRoot;// 表情父容器
+	/*private EmojiKeyboard mFaceRoot;// 表情父容器*/
 	private WindowManager.LayoutParams mWindowNanagerParams;
 	private InputMethodManager mInputMethodManager;
 	private List<String> mFaceMapKeys;// 表情对应的字符串数组
@@ -285,7 +285,7 @@ public class ChatActivity extends SwipeBackActivity implements OnTouchListener,
 		mSendMsgBtn = (Button) findViewById(R.id.send);
 		mFaceSwitchBtn = (ImageButton) findViewById(R.id.face_switch_btn);
 		mChatEditText = (EditText) findViewById(R.id.input);
-		mFaceRoot = (EmojiKeyboard) findViewById(R.id.face_ll);
+		/*mFaceRoot = (EmojiKeyboard) findViewById(R.id.face_ll);
 		mFaceRoot.setEventListener(new EventListener() {
 			
 			@Override
@@ -299,7 +299,7 @@ public class ChatActivity extends SwipeBackActivity implements OnTouchListener,
 				// TODO Auto-generated method stub
 				EmojiKeyboard.backspace(mChatEditText);
 			}
-		});
+		});*/
 //		mFaceViewPager = (ViewPager) findViewById(R.id.face_pager);
 		mChatEditText.setOnTouchListener(this);
 		mTitleNameView = (TextView) findViewById(R.id.ivTitleName);
@@ -312,7 +312,7 @@ public class ChatActivity extends SwipeBackActivity implements OnTouchListener,
 				if (keyCode == KeyEvent.KEYCODE_BACK) {
 					if (mWindowNanagerParams.softInputMode == WindowManager.LayoutParams.SOFT_INPUT_STATE_VISIBLE
 							|| mIsFaceShow) {
-						mFaceRoot.setVisibility(View.GONE);
+						/*mFaceRoot.setVisibility(View.GONE);*/
 						mIsFaceShow = false;
 						// imm.showSoftInput(msgEt, 0);
 						return true;
@@ -372,11 +372,11 @@ public class ChatActivity extends SwipeBackActivity implements OnTouchListener,
 				} catch (InterruptedException e) {
 					e.printStackTrace();
 				}
-				mFaceRoot.setVisibility(View.VISIBLE);
+				/*mFaceRoot.setVisibility(View.VISIBLE);*/
 				mFaceSwitchBtn.setImageResource(R.drawable.aio_keyboard);
 				mIsFaceShow = true;
 			} else {
-				mFaceRoot.setVisibility(View.GONE);
+				/*mFaceRoot.setVisibility(View.GONE);*/
 				mInputMethodManager.showSoftInput(mChatEditText, 0);
 				mFaceSwitchBtn
 						.setImageResource(R.drawable.qzone_edit_face_drawable);
@@ -412,14 +412,14 @@ public class ChatActivity extends SwipeBackActivity implements OnTouchListener,
 					mChatEditText.getWindowToken(), 0);
 			mFaceSwitchBtn
 					.setImageResource(R.drawable.qzone_edit_face_drawable);
-			mFaceRoot.setVisibility(View.GONE);
+			/*mFaceRoot.setVisibility(View.GONE);*/
 			mIsFaceShow = false;
 			break;
 		case R.id.input:
 			mInputMethodManager.showSoftInput(mChatEditText, 0);
 			mFaceSwitchBtn
 					.setImageResource(R.drawable.qzone_edit_face_drawable);
-			mFaceRoot.setVisibility(View.GONE);
+			/*mFaceRoot.setVisibility(View.GONE);*/
 			mIsFaceShow = false;
 			break;
 
@@ -440,7 +440,7 @@ public class ChatActivity extends SwipeBackActivity implements OnTouchListener,
 		CirclePageIndicator indicator = (CirclePageIndicator) findViewById(R.id.indicator);
 		indicator.setViewPager(mFaceViewPager);
 		adapter.notifyDataSetChanged();
-		mFaceRoot.setVisibility(View.GONE);
+		/*mFaceRoot.setVisibility(View.GONE);*/
 		indicator.setOnPageChangeListener(new OnPageChangeListener() {
 
 			@Override

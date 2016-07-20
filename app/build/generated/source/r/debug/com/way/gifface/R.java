@@ -273,14 +273,14 @@ public final class R {
 		public static final int tab_btn_bg_pressed = 0x7f0201bf;
 	}
 	public static final class id {
-		public static final int back_space = 0x7f09005b;
-		public static final int child_pager = 0x7f0900ad;
-		public static final int grid = 0x7f090058;
-		public static final int imageView = 0x7f090057;
-		public static final int indicator = 0x7f0900ae;
-		public static final int no_recent = 0x7f0900af;
-		public static final int parent_pager = 0x7f090059;
-		public static final int tabs = 0x7f09005a;
+		public static final int back_space = 0x7f09005a;
+		public static final int child_pager = 0x7f0900ac;
+		public static final int grid = 0x7f090057;
+		public static final int imageView = 0x7f090056;
+		public static final int indicator = 0x7f0900ad;
+		public static final int no_recent = 0x7f0900ae;
+		public static final int parent_pager = 0x7f090058;
+		public static final int tabs = 0x7f090059;
 	}
 	public static final class integer {
 		public static final int default_circle_indicator_orientation = 0x7f0a0000;

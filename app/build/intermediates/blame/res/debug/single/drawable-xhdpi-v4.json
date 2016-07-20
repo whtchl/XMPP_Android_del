@@ -1,510 +1,510 @@
 [
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_indicator_unexpanded.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\skin_indicator_unexpanded.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_loading4_7.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\common_loading4_7.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_loading4_1.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\common_loading4_1.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\aio_face_popup_bg.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\aio_face_popup_bg.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\action_sheet_button_cancel_normal.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\action_sheet_button_cancel_normal.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_loading3_7.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\common_loading3_7.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shadow_left.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\shadow_left.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\status_invisible.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\status_invisible.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_loading3_1.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\common_loading3_1.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_searchbar_icon.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\skin_searchbar_icon.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\status_invisible_btn.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\status_invisible_btn.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_aio_input_bg.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\skin_aio_input_bg.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_switch_track.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\skin_switch_track.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_common_btn_green_pressed.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\skin_common_btn_green_pressed.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_searchbar_icon.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\skin_searchbar_icon.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\action_sheet_button_delete_click.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\action_sheet_button_delete_click.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_group_list_item_pressed.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\skin_group_list_item_pressed.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_common_btn_green_normal.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\skin_common_btn_green_normal.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_loading3_0.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\common_loading3_0.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\popover_button_gray_click.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\popover_button_gray_click.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_loading4_0.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\common_loading4_0.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\splash_bg.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\splash_bg.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\action_sheet_button_confirm_normal.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\action_sheet_button_confirm_normal.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\indicator_expanded.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\indicator_expanded.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_loading3_2.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\common_loading3_2.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_loading4_8.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\common_loading4_8.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bubble_popup_arrow_down.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\bubble_popup_arrow_down.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_loading3_8.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\common_loading3_8.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_aio_input_bg.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\skin_aio_input_bg.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_setting_strip_bg_pressed.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\skin_setting_strip_bg_pressed.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_setting_strip_top_pressed.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\skin_setting_strip_top_pressed.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\net_warning.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\net_warning.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\as_input_frame.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\as_input_frame.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\splash_repeat_img.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\splash_repeat_img.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_track_activited.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\switch_track_activited.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_common_btn_white_unpressed.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\skin_common_btn_white_unpressed.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_searchbar_input.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\skin_searchbar_input.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\action_sheet_button_cancel_normal.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\action_sheet_button_cancel_normal.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\msg_tip_bg.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\msg_tip_bg.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_loading3_9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\common_loading3_9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_setting_strip_middle_unpressed.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\skin_setting_strip_middle_unpressed.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_group_list_item_normal.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\skin_group_list_item_normal.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bubble_popup_arrow_down.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\bubble_popup_arrow_down.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_setting_strip_bottom_pressed.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\skin_setting_strip_bottom_pressed.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_indicator_expanded.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\skin_indicator_expanded.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\action_sheet_base_9.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\action_sheet_base_9.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_common_btn_red_pressed.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\skin_common_btn_red_pressed.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\splash_bg.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\splash_bg.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_loading3_10.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\common_loading3_10.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\education_top.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\education_top.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\popover_button_gray_normal.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\popover_button_gray_normal.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bubble_popup_bg_space.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\bubble_popup_bg_space.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\as_input_frame.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\as_input_frame.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\list_conversation_press.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\list_conversation_press.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_indicator_unexpanded.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\skin_indicator_unexpanded.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_loading3_4.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\common_loading3_4.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_loading4_11.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\common_loading4_11.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_common_btn_red_unpressed.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\skin_common_btn_red_unpressed.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\action_sheet_button_confirm_normal.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\action_sheet_button_confirm_normal.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_loading3_10.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\common_loading3_10.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_loading3_6.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\common_loading3_6.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_aio_send_button_normal.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\skin_aio_send_button_normal.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\status_invisible_btn.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\status_invisible_btn.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_list_item_normal.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\skin_list_item_normal.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\status_online.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\status_online.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_aio_send_button_disabled.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\skin_aio_send_button_disabled.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_setting_strip_bg_unpressed.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\skin_setting_strip_bg_unpressed.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bubble_popup_arrow_up.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\bubble_popup_arrow_up.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\terminal_icon_ios_pressed.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\terminal_icon_ios_pressed.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_aio_send_button_pressed.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\skin_aio_send_button_pressed.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\education_avatar_finger.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\education_avatar_finger.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\popover_button_gray_click.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\popover_button_gray_click.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_group_list_item_pressed.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\skin_group_list_item_pressed.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_track.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\switch_track.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shadow_left.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\shadow_left.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\status_qme.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\status_qme.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\status_shield.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\status_shield.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\status_leave.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\status_leave.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_loading3_4.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\common_loading3_4.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_setting_strip_top_unpressed.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\skin_setting_strip_top_unpressed.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arrow_down.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\arrow_down.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_common_btn_white_pressed.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\skin_common_btn_white_pressed.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shadow_bottom.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\shadow_bottom.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_header_btn_press.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\skin_header_btn_press.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_loading4_4.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\common_loading4_4.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arrow_up.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\arrow_up.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_header_bar_bg.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\skin_header_bar_bg.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\popover_button_white_click.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\popover_button_white_click.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_loading4_5.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\common_loading4_5.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\action_sheet_button_replace_normal.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\action_sheet_button_replace_normal.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_searchbar_bg.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\skin_searchbar_bg.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\status_busy.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\status_busy.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\conversation_bg_logo.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\conversation_bg_logo.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_loading4_2.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\common_loading4_2.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_icon_arrow_right_pressed.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\skin_icon_arrow_right_pressed.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_searchbar_bg.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\skin_searchbar_bg.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\terminal_icon_ios.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\terminal_icon_ios.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\status_online.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\status_online.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\indicator_unexpanded.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\indicator_unexpanded.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_loading4_5.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\common_loading4_5.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\contact_user_null_bg.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\contact_user_null_bg.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\net_warning_redirect.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\net_warning_redirect.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\action_sheet_button_replace_normal.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\action_sheet_button_replace_normal.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_loading4_8.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\common_loading4_8.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_input.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\chat_input.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_loading4_7.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\common_loading4_7.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_common_btn_green_disable.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\skin_common_btn_green_disable.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_loading3_7.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\common_loading3_7.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\popover_button_white_normal.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\popover_button_white_normal.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_setting_strip_bottom_unpressed.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\skin_setting_strip_bottom_unpressed.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_setting_strip_bottom_unpressed.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\skin_setting_strip_bottom_unpressed.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_setting_strip_bg_pressed.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\skin_setting_strip_bg_pressed.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arrow_up.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\arrow_up.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\aio_refresh_over.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\aio_refresh_over.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_searchbar_button_pressed.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\skin_searchbar_button_pressed.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\net_warning_bar_bg.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\net_warning_bar_bg.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_common_btn_red_disabled.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\skin_common_btn_red_disabled.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_common_btn_red_disabled.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\skin_common_btn_red_disabled.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_track_activited.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\switch_track_activited.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\aio_face_popup_bg.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\aio_face_popup_bg.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_aio_send_button_pressed.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\skin_aio_send_button_pressed.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_header_btn_normal.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\skin_header_btn_normal.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\aio_unread_bg.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\aio_unread_bg.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_setting_strip_middle_unpressed.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\skin_setting_strip_middle_unpressed.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_loading3_1.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\common_loading3_1.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_loading4_10.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\common_loading4_10.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_loading4_1.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\common_loading4_1.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_header_btn_indicative_normal.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\skin_header_btn_indicative_normal.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_group_list_item_normal.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\skin_group_list_item_normal.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_loading4_6.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\common_loading4_6.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_common_btn_white_pressed.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\skin_common_btn_white_pressed.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shadow_right.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\shadow_right.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\action_sheet_base_9.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\action_sheet_base_9.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_thumb_disabled.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\switch_thumb_disabled.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\aio_refresh_nor.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\aio_refresh_nor.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_loading3_11.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\common_loading3_11.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\action_sheet_button_confirm_click.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\action_sheet_button_confirm_click.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\splash_repeat_img.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\splash_repeat_img.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_thumb_activited.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\switch_thumb_activited.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_aio_input_bar_bg_big.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\skin_aio_input_bar_bg_big.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\action_sheet_button_replace_click.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\action_sheet_button_replace_click.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_common_btn_white_unpressed.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\skin_common_btn_white_unpressed.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_header_btn_normal.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\skin_header_btn_normal.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\status_online_btn.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\status_online_btn.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_loading3_2.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\common_loading3_2.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_aio_input_bar_bg.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\skin_aio_input_bar_bg.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\list_conversation_press.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\list_conversation_press.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\status_shield.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\status_shield.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_input_pressed.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\chat_input_pressed.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\net_warning.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\net_warning.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_header_btn_indicative_press.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\skin_header_btn_indicative_press.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_loading4_11.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\common_loading4_11.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_loading4_2.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\common_loading4_2.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\action_sheet_button_replace_click.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\action_sheet_button_replace_click.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_header_btn_indicative_normal.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\skin_header_btn_indicative_normal.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_header_bar_bg.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\skin_header_bar_bg.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_aio_input_bar_bg_big.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\skin_aio_input_bar_bg_big.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\terminal_icon_ios.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\terminal_icon_ios.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_thumb_disabled_pressed.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\switch_thumb_disabled_pressed.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_searchbar_button_pressed.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\skin_searchbar_button_pressed.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\status_qme.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\status_qme.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\action_sheet_button_confirm_click.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\action_sheet_button_confirm_click.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bubble_popup_bg_space.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\bubble_popup_bg_space.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\action_sheet_button_cancel_click.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\action_sheet_button_cancel_click.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\aio_refresh_nor.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\aio_refresh_nor.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_common_btn_white_disabled.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\skin_common_btn_white_disabled.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_loading4_9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\common_loading4_9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_setting_strip_bottom_pressed.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\skin_setting_strip_bottom_pressed.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_loading3_5.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\common_loading3_5.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\action_sheet_button_delete_normal.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\action_sheet_button_delete_normal.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\education_avatar_finger.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\education_avatar_finger.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\popover_button_white_click.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\popover_button_white_click.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\popover_base.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\popover_base.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_loading3_3.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\common_loading3_3.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_loading3_8.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\common_loading3_8.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quick_action_division.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\quick_action_division.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\action_sheet_button_delete_normal.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\action_sheet_button_delete_normal.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_switch_track.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\skin_switch_track.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quick_action_division.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\quick_action_division.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_loading3_0.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\common_loading3_0.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\indicator_expanded.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\indicator_expanded.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\education_top.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\education_top.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_common_btn_white_disabled.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\skin_common_btn_white_disabled.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\msg_tip_bg.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\msg_tip_bg.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\list_newmessage2.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\list_newmessage2.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\list_newmessage2.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\list_newmessage2.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_thumb_disabled_pressed.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\switch_thumb_disabled_pressed.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_setting_strip_middle_pressed.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\skin_setting_strip_middle_pressed.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_list_item_pressed.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\skin_list_item_pressed.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_list_item_pressed.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\skin_list_item_pressed.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\action_sheet_button_delete_click.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\action_sheet_button_delete_click.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_thumb_disabled.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\switch_thumb_disabled.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_common_btn_red_pressed.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\skin_common_btn_red_pressed.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_track.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\switch_track.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sym_keyboard_delete_holo.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\exploded-aar\\XMPP1\\qqEmojilib\\unspecified\\res\\drawable-xhdpi-v4\\sym_keyboard_delete_holo.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_setting_strip_top_unpressed.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\skin_setting_strip_top_unpressed.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_header_btn_indicative_press.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\skin_header_btn_indicative_press.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sym_keyboard_delete_holo.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\exploded-aar\\XMPP_Android\\qqEmojilib\\unspecified\\res\\drawable-xhdpi-v4\\sym_keyboard_delete_holo.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_loading4_4.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\common_loading4_4.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\aio_refresh_over.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\aio_refresh_over.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_common_btn_green_pressed.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\skin_common_btn_green_pressed.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_searchbar_button_normal.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\skin_searchbar_button_normal.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_setting_strip_bg_unpressed.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\skin_setting_strip_bg_unpressed.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_loading3_5.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\common_loading3_5.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_common_btn_green_disable.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\skin_common_btn_green_disable.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\net_warning_bar_bg.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\net_warning_bar_bg.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_loading4_3.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\common_loading4_3.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_aio_input_bar_bg.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\skin_aio_input_bar_bg.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_searchbar_button_normal.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\skin_searchbar_button_normal.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\status_busy.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\status_busy.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_loading3_3.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\common_loading3_3.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_aio_send_button_disabled.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\skin_aio_send_button_disabled.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\status_invisible.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\status_invisible.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shadow_right.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\shadow_right.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\contact_user_null_bg.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\contact_user_null_bg.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\popover_base.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\popover_base.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_setting_strip_middle_pressed.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\skin_setting_strip_middle_pressed.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_common_btn_red_unpressed.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\skin_common_btn_red_unpressed.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\indicator_unexpanded.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\indicator_unexpanded.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\status_online_btn.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\status_online_btn.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_thumb_activited.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\switch_thumb_activited.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_header_btn_press.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\skin_header_btn_press.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\popover_button_white_normal.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\popover_button_white_normal.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_aio_send_button_normal.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\skin_aio_send_button_normal.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_loading3_6.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\common_loading3_6.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_setting_strip_top_pressed.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\skin_setting_strip_top_pressed.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_loading3_9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\common_loading3_9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\net_warning_redirect.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\net_warning_redirect.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_input_pressed.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\chat_input_pressed.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_loading4_9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\common_loading4_9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\aio_unread_bg.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\aio_unread_bg.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_searchbar_input.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\skin_searchbar_input.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\terminal_icon_ios_pressed.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\terminal_icon_ios_pressed.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_thumb_activited_pressed.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\switch_thumb_activited_pressed.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_thumb_activited_pressed.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\switch_thumb_activited_pressed.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\action_sheet_button_cancel_click.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\action_sheet_button_cancel_click.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shadow_bottom.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\shadow_bottom.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bubble_popup_arrow_up.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\bubble_popup_arrow_up.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\popover_button_gray_normal.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\popover_button_gray_normal.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_loading4_10.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\common_loading4_10.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arrow_down.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\arrow_down.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_list_item_normal.9.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\skin_list_item_normal.9.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_input.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\chat_input.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_loading4_6.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\common_loading4_6.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_icon_arrow_right_pressed.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\skin_icon_arrow_right_pressed.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_loading4_3.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\common_loading4_3.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_indicator_expanded.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\skin_indicator_expanded.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_loading3_11.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\common_loading3_11.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\conversation_bg_logo.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\conversation_bg_logo.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_loading4_0.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\common_loading4_0.png"
     },
     {
-        "merged": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skin_common_btn_green_normal.9.png",
-        "source": "D:\\04_workspace\\04_android\\03_UI\\Liaomei\\XMPP1\\app\\src\\main\\res\\drawable-xhdpi\\skin_common_btn_green_normal.9.png"
+        "merged": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\status_leave.png",
+        "source": "D:\\04_workspace\\04_android\\06_XMPP\\XMPP_Android\\app\\src\\main\\res\\drawable-xhdpi\\status_leave.png"
     }
 ]

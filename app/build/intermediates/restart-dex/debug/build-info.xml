@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
     abi="armeabi-v7a,armeabi"
-    api-level="17"
-    density="xhdpi"
+    api-level="19"
+    density="xxhdpi"
     format="7"
-    timestamp="106721461087251" >
+    timestamp="10623075862360" >
 
     <task
         name="javac"
-        duration="1075" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="1489" />
+        duration="0" />
     <task
         name="verifier"
-        duration="278" />
+        duration="0" />
 
     <artifact
-        location="D:\04_workspace\04_android\03_UI\Liaomei\XMPP1\app\build\outputs\apk\app-debug.apk"
+        location="D:\04_workspace\04_android\06_XMPP\XMPP_Android\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
-    <build timestamp="106721461087251" >
+    <build timestamp="10623075862360" >
         <artifact
-            location="D:\04_workspace\04_android\03_UI\Liaomei\XMPP1\app\build\outputs\apk\app-debug.apk"
+            location="D:\04_workspace\04_android\06_XMPP\XMPP_Android\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
 

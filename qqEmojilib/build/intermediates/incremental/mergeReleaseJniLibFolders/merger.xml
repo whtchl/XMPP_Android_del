@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="D:\04_workspace\04_android\03_UI\Liaomei\XMPP1\qqEmojilib\src\main\jniLibs"/></dataSet><dataSet config="release"><source path="D:\04_workspace\04_android\03_UI\Liaomei\XMPP1\qqEmojilib\src\release\jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="D:\04_workspace\04_android\06_XMPP\XMPP_Android\qqEmojilib\src\main\jniLibs"/></dataSet><dataSet config="release"><source path="D:\04_workspace\04_android\06_XMPP\XMPP_Android\qqEmojilib\src\release\jniLibs"/></dataSet></merger>

@@ -46,7 +46,7 @@
                         android:layout_width="fill_parent"
                         android:layout_height="wrap_content"
                         android:background="@null"
-                        android:hint="jid@example.com"
+                        android:hint="@string/hint_account"
                         android:imeActionLabel="@string/next"
                         android:maxLength="50"
                         android:paddingBottom="6.0dip"
@@ -146,7 +146,8 @@
                 android:button="@drawable/checkbox_bg1"
                 android:checked="true"
                 android:text="@string/auto_save_password"
-                android:textColor="@color/black" />
+                android:textColor="@color/black"
+                android:visibility="gone"/>
 
             <View
                 android:layout_width="fill_parent"
@@ -160,7 +161,8 @@
                 android:button="@drawable/checkbox_bg1"
                 android:checked="false"
                 android:text="@string/hide_login"
-                android:textColor="@color/black" />
+                android:textColor="@color/black"
+                android:visibility="gone"/>
         </LinearLayout>
 
         <LinearLayout
@@ -177,7 +179,8 @@
                 android:layout_height="40.0dip"
                 android:button="@drawable/checkbox_bg1"
                 android:text="@string/info_accounts"
-                android:textColor="@color/black" />
+                android:textColor="@color/black"
+                android:visibility="gone"/>
 
             <View
                 android:layout_width="fill_parent"
@@ -191,7 +194,8 @@
                 android:button="@drawable/checkbox_bg1"
                 android:checked="false"
                 android:text="@string/silence_login"
-                android:textColor="@color/black" />
+                android:textColor="@color/black"
+                android:visibility="gone"/>
         </LinearLayout>
 
         <View

@@ -33,7 +33,7 @@ public class FeedBackActivity extends SwipeBackActivity {
 					intent.setType("text/plain");
 					intent.putExtra(Intent.EXTRA_SUBJECT, "推聊Android客户端 - 信息反馈");
 					intent.putExtra(Intent.EXTRA_TEXT, content);
-					intent.setData(Uri.parse("mailto:way.ping.li@gmail.com"));
+					intent.setData(Uri.parse("mailto:whtchl@126.com"));
 					intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
 					FeedBackActivity.this.startActivity(intent);
 				} else {
